@@ -1,4 +1,4 @@
-# Neural-Networks-JHU-course
+# Neural Networks JHU course
 Code from neural network course, EN 605-647 at Johns Hopkins University 
 
 
